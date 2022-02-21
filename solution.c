@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define size 100
+#define size 1024
 
 int check(int lim, int mas[], int digit);
 
